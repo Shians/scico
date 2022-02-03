@@ -4,7 +4,7 @@
 #' `ggplot2` package. It goes without saying that it requires `ggplot2` to work.
 #' 
 #' @param ... Arguments to pass on to `ggplot2::scale_colour_gradientn()`, 
-#' `ggplot2::scale_fill_gradientn()`, `ggplot2::ggplot2::discrete_scale()`
+#' `ggplot2::scale_fill_gradientn()`, `ggplot2::discrete_scale()`
 #' @param aesthetics Character string or vector of character strings listing the
 #'   name(s) of the aesthetic(s) that this scale works with. This can be useful,
 #'   for example, to apply colour settings to the colour and fill aesthetics at
